@@ -1,0 +1,6 @@
+create json folder-->npm init -y (use to create json package) --> 
+go to  json server and bulid npm jaison server (use to create package lock json)-->create gitignore file--->create file file db.json ()-->create index.js file
+
+day 2
+
+
